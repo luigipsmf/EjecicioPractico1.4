@@ -8,3 +8,6 @@ edad + 5;
 let nombreCompleto= nombre + " " + apellido;
 console.log("Mi nombre es " + nombreCompleto + ", tengo " + edad + " años, nací en el año " + FNacimiento + ", soy " + estadoCivil + " y es " + masculino + " que soy hombre.");
 console.log("En 5 años tendré " + (edad + 5) + " años.");
+alert("Mi nombre es " + nombreCompleto + ", tengo " + edad + " años, nací en el año " + FNacimiento + ", soy " + estadoCivil + " y es " + masculino + " que soy hombre.");
+let amor=prompt("¿Cuál es tu estado civil?");
+console.log("Mi estado civil es " + amor);
